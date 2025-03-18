@@ -1,11 +1,31 @@
-- 👋 Hi, I’m Mebit Melak
-- 👀 I’m interested in website developer
-- 🌱 I’m currently learning Node.js and django.
-- 💞️ I’m looking to collaborate on web development projects—especially those that focus on front-end and backend integration.
-- 📫 How to reach me. melakmebit75@gmail.com//https://www.linkedin.com/in/mebit-melak-b12c19d21/
+Hi there, I'm Mebit Melak! 👋
+👨‍💻 About Me
+I’m a passionate web developer with a keen interest in building dynamic and user-friendly websites. I enjoy working on both front-end and back-end technologies to create seamless web experiences.
 
+🌟 Interests
 
-<!---
-me-1219/me-1219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Web development (front-end and back-end)
+
+Building responsive and interactive user interfaces
+
+Exploring new frameworks and tools to enhance my skills
+
+🌱 Currently Learning
+
+Node.js for server-side development
+
+Django for building robust web applications
+
+🤝 Looking to Collaborate
+I’m excited to collaborate on web development projects, especially those that involve:
+
+Front-end and back-end integration
+
+Full-stack development
+
+Innovative and creative web solutions
+
+📫 How to Reach Me
+Feel free to connect with me or reach out for collaborations:
+
+Email: melakmebit75@gmail.com
