@@ -10,8 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=0D9276&center=true&vCenter=true&width=700&lines=Django+%2B+React+Specialist;Node.js+Backend+Developer;Tailwind+CSS+Pro;MySQL+%7C+MongoDB+%7C+PostgreSQL;PHP+Legacy+Systems" alt="Typing SVG" />
 </div>
 
-[[<img align="right" alt="Coding" width="380" src="https://github.com/me-1219/me-1219/blob/main/assets/fullstack.gif?raw=true">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
+
 ```
 
 <p align="center">
