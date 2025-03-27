@@ -1,6 +1,5 @@
 <!-- Header with Full Stack Focus -->
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/your-new-image.gif?alt=media)](https://github.com/me-1219)
-
+[![MasterHead](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Github/github.gif)](https://github.com/me-1219)
 
 
 
