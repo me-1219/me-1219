@@ -95,6 +95,6 @@ I'm a Full Stack Developer with expertise in modern web technologies and legacy 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&gradient=4B0082-9370DB" />
-  <p style="color: #9370DB">From Django to Node.js, PHP to React - I build it all!</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling&gradient=6A0DAD-9B30FF" />
+  <p style="color: #9B30FF">From Django to Node.js, PHP to React - I build it all!</p>
 </div>
