@@ -1,5 +1,6 @@
 <!-- Header with Full Stack Focus -->
-[![MasterHead](https://github-readme-header.vercel.app/api?title=Mebtu%20Melak&subtitle=Full%20Stack%20Developer&description=Python%20%7C%20JavaScript%20%7C%20PHP%20Expert&bg=linear-gradient(135deg,%20#092E20%200%,%20#0D9276%2050%,%20#339933%20100%)&fontColor=fff)](https://github.com/me-1219)
+[![MasterHead](https://github-readme-header.vercel.app/api?title=Mebtu%20Melak&subtitle=Full%20Stack%20Developer&description=Python%20%7C%20JavaScript%20%7C%20PHP%20Expert&bg=linear-gradient(135deg,%20#1E1E2E%200%,%20#6A0DAD%2050%,%20#FF007F%20100%)&fontColor=fff)](https://github.com/mebit-melak)
+
 
 <h1 align="center">👋 Hello World! I'm Mebtu</h1>
 <h3 align="center">Full Stack Developer | UI/UX Enthusiast | Problem Solver</h3>
