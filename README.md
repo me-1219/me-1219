@@ -11,16 +11,7 @@
 </div>
 
 
-```
 
-<p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/116633521-adbc8800-a994-11eb-97c4-e45a32721491.png">
-</p>)
-```
-
-<p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/116633521-adbc8800-a994-11eb-97c4-e45a32721491.png">
-</p>)
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=me-1219&label=Profile+Views&color=0D9276&style=flat" alt="Profile views" /> 
