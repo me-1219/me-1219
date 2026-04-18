@@ -4,7 +4,7 @@
 
 
 <h1 align="center">👋 Hello! I'm Mebit Melak</h1>
-<h3 align="center">Full Stack Developer | UI/UX Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | UI/UX Enthusiast | Data Visualization | Problem Solver</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=0D9276&center=true&vCenter=true&width=700&lines=Django+%2B+React+Specialist;Node.js+Backend+Developer;Tailwind+CSS+Pro;MySQL+%7C+MongoDB+%7C+PostgreSQL;PHP+Legacy+Systems" alt="Typing SVG" />
