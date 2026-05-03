@@ -75,17 +75,25 @@ I'm a Full Stack Developer with expertise in modern web technologies and legacy 
 
 ## 📊 GitHub Analytics
 
-<!-- MAIN STATS + TOP LANGUAGES SIDE BY SIDE -->
+<!-- Stats card + Top languages -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=me-1219&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0D9276&icon_color=0D9276&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=me-1219&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0D9276&icon_color=0D9276&text_color=c9d1d9" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-1219&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=0D9276&text_color=c9d1d9" />
 </div>
 
 <br/>
 
-<!-- DETAILED STATS CARD (commits, PRs, issues, reviews) -->
+<!-- WakaTime / PR + Issue stats via github-stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=me-1219&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0D9276&icon_color=0D9276&text_color=c9d1d9&hide=stars&custom_title=Detailed%20Contribution%20Stats&show=prs_merged,prs_merged_percentage,reviews,discussions_started" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=me-1219&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0D9276&icon_color=0D9276&text_color=c9d1d9&hide=contribs,prs" />
+</div>
+
+<br/>
+
+<!-- Pull Requests, Issues, Commits via github-profile-summary-cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=me-1219&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=me-1219&theme=github_dark" />
 </div>
 
 ---
