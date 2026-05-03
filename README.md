@@ -28,7 +28,7 @@ I'm a Full Stack Developer with expertise in modern web technologies and legacy 
 - 🔭 Currently working with **Node.js & Django Microservices**
 - 🌱 Enhancing **SQL & NoSQL Database Optimization** skills
 - 🚀 Developing **Reusable UI Component Libraries (React + TailwindCSS)**
-- 💡 Experienced in **Modernizing PHP Legacy Systems**
+- 💡 Experienced in **Modernizing Django Legacy Systems**
 - 📫 Reach me at **melakmebit75@gmail.com**
 - ⚡ *"Do the best you can until you know better. Then, when you know better, do better."*
 
