@@ -52,6 +52,9 @@ I care about writing software that actually gets used. That means clean APIs, se
 **Databases**
 `PostgreSQL` `MySQL` `MongoDB` `SQLite`
 
+**Deployment**
+`Oracle Cloud` `Linux Server Administration` `Nginx` `Gunicorn` `cPanel` `Plesk` `Domain & SSL Setup` 
+
 **Tools & DevOps**
 `Docker` `Git` `Postman/Insomnia` `VS Code` `Linux`
 
