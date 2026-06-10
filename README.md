@@ -53,7 +53,7 @@ I care about writing software that actually gets used. That means clean APIs, se
 `PostgreSQL` `MySQL` `MongoDB` `SQLite`
 
 **Tools & DevOps**
-`Docker` `Git` `Postman` `VS Code` `Linux`
+`Docker` `Git` `Postman/Insomnia` `VS Code` `Linux`
 
 ---
 
