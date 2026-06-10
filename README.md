@@ -7,7 +7,7 @@
 *Building real things for real problems — from legacy system rescues to greenfield apps*
 
 [![Portfolio](https://img.shields.io/badge/cv.melaklegacy.com.et-0D9276?style=flat-square&logo=vercel&logoColor=white)](http://cv.melaklegacy.com.et/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mebtu-melak/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mebit-melak-gashaye-31b2b1379/)
 [![Gmail](https://img.shields.io/badge/melakmebit75@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:melakmebit75@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=me-1219&label=Views&color=0D9276&style=flat-square)](https://github.com/me-1219)
 
