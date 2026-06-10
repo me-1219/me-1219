@@ -64,7 +64,16 @@ I care about writing software that actually gets used. That means clean APIs, se
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=me-1219&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=0D9276&icon_color=0D9276&text_color=c9d1d9" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-1219&layout=compact&theme=vue-dark&hide_border=true&langs_count=6&bg_color=0D1117&title_color=0D9276&text_color=c9d1d9" />
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-1219&layout=compact&theme=vue-dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=0D9276&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=me-1219&theme=vue-dark&hide_border=true&background=0D1117&ring=0D9276&fire=0D9276&currStreakLabel=0D9276" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=me-1219&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </div>
 
 <div align="center">
