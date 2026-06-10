@@ -76,9 +76,7 @@ I care about writing software that actually gets used. That means clean APIs, se
   <img src="https://github-profile-trophy.vercel.app/?username=me-1219&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=me-1219&theme=dark&hide_border=true&background=0D1117&ring=0D9276&fire=0D9276&currStreakLabel=0D9276&stroke=0D9276&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=0D9276" />
-</div>
+
 
 ---
 
